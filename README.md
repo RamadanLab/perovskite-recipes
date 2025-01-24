@@ -1,3 +1,4 @@
 # perovskite-recipes
-A repository for all perovskite recipes and processes from the group.
-Give each new recipe or processes a clear file name and include an introduction with information relating to the process.
+A repository for all perovskite recipes and processes from the group. The wiki contains detailed recipes and information. 
+Any processes developed from papers and added to the wiki must be clearly referenced. 
+This is a public repository so bear this is mind.
